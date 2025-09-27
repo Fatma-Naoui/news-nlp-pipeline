@@ -27,7 +27,7 @@ The dataset used is the [Al Jazeera News Dataset](https://www.kaggle.com/dataset
 - Generate embeddings using:
   - **CBOW (Continuous Bag of Words)**  
   - **Skip-gram**  
-  - **BERT (contextual embeddings using Sentence Transformers)**
+  - **BERT**
 
 ### 4. Analysis
 - Compare semantic similarity of words across embeddings  
